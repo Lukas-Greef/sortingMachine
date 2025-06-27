@@ -1,3 +1,5 @@
+Digital twin: https://wokwi.com/projects/434937233811503105
+------------------------------------------------------------------
 Overdrachtsdocument – Project Color Sorting-machine
 1. Introductie
 Dit document is bedoeld als overdracht voor de volgende groep studenten die gaan werken aan het Color Sorting-machine project. Hierin vind je wat wij hebben gedaan, waar wij tegenaan liepen, en tips voor een betere aanpak.
